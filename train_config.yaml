@@ -1,0 +1,13 @@
+data:
+  positive_dir: "Wakeword_dataset/positive"
+  negative_dir: "Wakeword_dataset/negative"
+
+training:
+  batch_size: 32
+  epochs: 50
+  learning_rate: 0.001
+  save_path: "hey_karna.onnx"
+
+# 🚫 Disable Piper and augmentation
+generate_clips: false
+augment_clips: false

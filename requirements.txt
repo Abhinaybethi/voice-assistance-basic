@@ -1,0 +1,25 @@
+torch
+openai-whisper
+TTS
+openwakeword
+SpeechRecognition
+pyttsx3
+
+#testing modules
+# torchinfo
+# torchmetrics
+# pronouncing
+# audiomentations
+# torch_audiomentations
+# speechbrain
+# torch 
+# torchaudio
+# openwakeword[speechbrain]
+# tqdm
+# scikit-learn 
+# scikit-image
+# acoustics
+# sounddevice 
+# pyaudio 
+# librosa 
+# scipy

@@ -1,0 +1,49 @@
+{
+  "apps": {
+    "chrome": "chrome",
+    "vscode": "code",
+    "notepad": "notepad",
+    "spotify": "spotify",
+    "terminal": "cmd",
+    "explorer": "explorer"
+  },
+  "folders": {
+    "desktop": "C:\\Users\\abhin\\Desktop",
+    "downloads": "C:\\Users\\abhin\\Downloads",
+    "documents": "C:\\Users\\abhin\\Documents",
+    "projects": "C:\\Users\\abhin\\Personal"
+  },
+  "sites": {
+    "youtube": "https://youtube.com",
+    "github": "https://github.com",
+    "google": "https://google.com",
+    "stackoverflow": "https://stackoverflow.com"
+  },
+  "commands": [
+    {
+      "command": "What is the weather in Hyderabad?",
+      "tool": "agent_execute",
+      "timestamp": "2026-06-28T00:19:23.917408"
+    },
+    {
+      "command": "What is the weather in Hyderabad?",
+      "tool": "agent_execute",
+      "timestamp": "2026-06-28T00:19:13.482873"
+    },
+    {
+      "command": "What is the weather like right now?",
+      "tool": "agent_execute",
+      "timestamp": "2026-06-22T01:01:09.135871"
+    }
+  ],
+  "projects": {},
+  "preferences": {
+    "default_city": "Hyderabad",
+    "voice_speed": 1.0,
+    "theme": "dark_orange"
+  },
+  "usage_counts": {
+    "agent_execute": 3
+  },
+  "last_updated": "2026-06-28T00:19:23.917408"
+}
